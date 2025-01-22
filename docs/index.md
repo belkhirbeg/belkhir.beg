@@ -1,7 +1,9 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [Belkhir.beg](https://belkhirbeg.github.io/belkhir.beg/).
+                                                               
                                                                    بسم الله 
+                                                                   
 ## Commands
 * this is my set web
 
